@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HexaGrabber URL Grabber</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>HexaGrabber</h1>
+    <label class="dark-mode-toggle">
+      <input type="checkbox" id="darkModeToggle">
+      <span class="toggle-slider"></span>
+    </label>
+  </header>
+  <main>
+    <button id="fetchUrls">Grab URLs</button>
+    <ul id="urlList"></ul>
+    <button id="copyUrls" disabled>Copy URLs</button>
+    <div id="status"></div>
+  </main>
+  <script src="popup.js"></script>
+</body>
+</html>
