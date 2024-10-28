@@ -6,16 +6,11 @@ HexaGrabber is a Chrome extension designed to quickly grab all URLs from the cur
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Development](#development)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Extracts all URLs from the active webpage.
 - Dark mode and light mode support.
 - Compact and responsive popup interface.
-- Simple toggle to switch between dark and light mode.
-- Stores settings using Chrome's storage API.
 
 ## Installation
 
@@ -34,12 +29,3 @@ HexaGrabber is a Chrome extension designed to quickly grab all URLs from the cur
 2. The popup will display all URLs extracted from the current page.
 3. Toggle between **dark mode** and **light mode** as desired using the switch in the popup.
 
-## Development
-
-To set up the development environment:
-
-### Prerequisites
-- Chrome or a Chromium-based browser.
-- Node.js (if you plan to work with additional modules or tools).
-
-### Project Structure
