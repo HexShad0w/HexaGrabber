@@ -16,7 +16,7 @@ HexaGrabber is a Chrome extension designed to quickly grab all URLs from the cur
 
 1. Clone the repository or download the files.
     ```bash
-    git clone https://github.com/yourusername/HexaGrabber.git
+    git clone https://github.com/HexShad0w/HexaGrabber.git
     ```
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable **Developer mode**.
